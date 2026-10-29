@@ -1,5 +1,3 @@
-## Backend coding standards and naming conventions
-
 ## Backend module structure
 
 Las decisiones que gobiernan esta estructura están documentadas en los
@@ -30,6 +28,8 @@ Catalog <- RaceData <- Statistics <- Comparison <- Performance
 `Api` may reference every module to expose HTTP endpoints and compose the
 application. Modules must never reference `Api` or a module to their right
 in the dependency chain.
+
+## Backend coding standards and naming conventions
 
 
 | Object Name               | Notation   | Length | Plural | Prefix | Suffix | Abbreviation | Char Mask          | Underscores |
