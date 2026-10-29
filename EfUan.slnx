@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/src/">
+    <Project Path="backend/src/Api/Api.csproj" />
+    <Project Path="backend/src/Abstractions/Abstractions.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Modules/" />
+  <Folder Name="/backend/src/Modules/Catalog/">
+    <Project Path="backend/src/Modules/Catalog/EfUan.Catalog.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Modules/Comparison/">
+    <Project Path="backend/src/Modules/Comparison/EfUan.Comparison.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Modules/Performance/">
+    <Project Path="backend/src/Modules/Performance/EfUan.Performance.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Modules/RaceData/">
+    <Project Path="backend/src/Modules/RaceData/EfUan.RaceData.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Modules/Statistics/">
+    <Project Path="backend/src/Modules/Statistics/EfUan.Statistics.csproj" />
+  </Folder>
+</Solution>
