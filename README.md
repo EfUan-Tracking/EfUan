@@ -2,6 +2,9 @@
 
 ## Backend module structure
 
+Las decisiones que gobiernan esta estructura están documentadas en los
+[ADRs](docs/adr/README.md).
+
 The backend is a modular monolith. Each business module is compiled as one project;
 its internal `Domain`, `Application`, `Infrastructure`, and `Contracts` folders are
 organizational boundaries, not separate projects.
