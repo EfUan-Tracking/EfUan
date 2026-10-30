@@ -20,4 +20,5 @@ y agentes de IA.
 ## Índice
 
 - [0001 - Monolito modular y estructura inicial del backend](0001-monolito-modular-y-estructura-inicial-del-backend.md)
+- [0002 - Arquitectura y configuración inicial del frontend](0002-arquitectura-y-configuracion-inicial-del-frontend.md)
 
