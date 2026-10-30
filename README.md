@@ -1,6 +1,6 @@
 ## Backend module structure
 
-Las decisiones que gobiernan esta estructura están documentadas en los
+Architecture decisiones are documented at:
 [ADRs](docs/adr/README.md).
 
 The backend is a modular monolith. Each business module is compiled as one project;
